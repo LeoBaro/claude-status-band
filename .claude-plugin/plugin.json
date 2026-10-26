@@ -1,0 +1,10 @@
+{
+  "name": "status-band",
+  "version": "0.1.0",
+  "description": "A two-row status band above the prompt: model, folder, git branch, context use, cost and session time.",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "Leonardo Baroncelli"
+  }
+}

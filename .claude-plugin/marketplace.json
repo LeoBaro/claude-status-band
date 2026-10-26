@@ -1,0 +1,13 @@
+{
+  "name": "claude-status-band",
+  "description": "A Claude Code status band: model, folder, git branch, context, cost and session time.",
+  "owner": {
+    "name": "Leonardo Baroncelli"
+  },
+  "plugins": [
+    {
+      "name": "status-band",
+      "source": "./"
+    }
+  ]
+}
